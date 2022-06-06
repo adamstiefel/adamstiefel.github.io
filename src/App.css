@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #eaeaea;
 }
 
 .App-logo {
@@ -35,4 +36,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.amplify-flex.amplify-collection {
+  align-items: center;
+  margin-top: 5%;
+  background-color: #eaeaea;
+}
+
+#hero {
+  margin-left: 9%;
+  margin-top: 5%;
+  background-color: #eaeaea;
+
+}
+
+body {
+  background-color: #eaeaea;
 }
